@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com</groupId>
-	<artifactId>spring-boot-admin</artifactId>
+	<artifactId>spring-boot-admin-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-admin</name>
+	<name>spring-boot-admin-server</name>
 	<description>simple project to monitoring resources another spring boot apis.</description>
 
 	<properties>
