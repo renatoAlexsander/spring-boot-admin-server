@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/renatoAlexsander/spring-boot-admin-server.svg?branch=master)](https://travis-ci.com/renatoAlexsander/spring-boot-admin-server)
